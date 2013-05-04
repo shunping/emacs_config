@@ -1,0 +1,11 @@
+ac-comphist.dat
+auto-save-list/
+elpa/
+eshell/
+extensions_before_MELPA/
+init.el.bak
+init_before_MELPA.el
+tmp/
+tramp
+*~
+*.elc

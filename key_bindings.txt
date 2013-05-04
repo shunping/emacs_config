@@ -1,0 +1,61 @@
+== Basic Settings ==
+Open file:                 kbd "C-x C-f"
+Save file:                 kbd "C-x C-s"
+Save file as:              kbd "C-x C-w"
+
+Copy:                      kbd "M-w"
+Cut:                       kbd "C-w"
+Cut a line:                kbd "C-k"
+Paste:                     kbd "C-y"
+
+Fill paragraph:            kbd "M-q"
+
+Select all:                kbd "C-x h"
+Move to the beginning:     kbd "M-<"
+Move to the end:           kbd "M->"
+
+Search forward:            kbd "C-s"
+Search backward:           kbd "C-r"
+
+Compile:                   kbd "C-c C-c"
+
+Comment:
+
+
+== Help ==
+Help with key bindings:    kbd "C-h k"
+Help with functions:       kbd "C-h f"
+Help with mode:            kbd "C-h m"
+Help with variables:       kbd "C-h v"
+Help with coding systems:  kbd "C-h C"
+
+
+== Windows and Buffers ==
+Move focus:                kbd "M-<left>", "M-<right>", "M-<up>", "M-<down>"
+Previous buffer:           kbd "C-x <left>"
+Next buffer:               kbd "C-x <right>"
+Switch buffer:             kbd "C-x b"
+Kill buffer:               kbd "C-x k"
+
+Kill this buffer           kbd "<C-return>"
+
+Delete window:             kbd "C-x 0"
+Delete other windows:      kbd "C-x 1"
+Split window horizontally: kbd "C-x 2"
+Split window vertically:   kbd "C-x 3"
+Kill buffer and window:
+
+== ECB ==
+
+
+== Flymake ==
+
+
+== Flyspell and ispell ==
+
+
+== Undotree ==
+
+
+== Magit ==
+
